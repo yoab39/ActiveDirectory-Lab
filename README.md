@@ -1,5 +1,10 @@
 # 🧱 Active Directory Lab – mylab.local
 
+> This hands-on lab demonstrates the deployment and management of a complete **Windows Server Active Directory environment** in a virtualized **Hyper-V** setup.  
+> It includes a Domain Controller (AD DS, DNS, DHCP), a Windows 10 domain client, and applied Group Policy configurations to simulate real-world enterprise administration tasks.
+
+---
+
 ### 📘 Overview
 This project documents the setup of a **Windows Server Active Directory environment** built on **Hyper-V**.  
 It simulates a small enterprise network with a Domain Controller, DNS, DHCP, and Group Policy (GPO) configuration, fully tested with a Windows 10 client.
